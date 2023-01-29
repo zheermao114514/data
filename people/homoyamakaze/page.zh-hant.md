@@ -3,6 +3,8 @@ name: 淺羽貓頭
 info:
     alias: 淺羽貓頭、穗也貓貓頭
     location: 甘肅蘭州
+translatedFrom: zh-hans
+lastReview: null
 ---
 
 ## 简介

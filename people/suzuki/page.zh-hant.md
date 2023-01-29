@@ -3,6 +3,8 @@ name: 鈴木涼宮
 info:
     alias: 鈴木
     location: 臺灣
+translatedFrom: zh-hans
+lastReview: null
 ---
 
 ## 簡介

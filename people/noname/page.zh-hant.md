@@ -2,6 +2,8 @@
 name: 無名逝者
 info:
     alias: 無名逝者
+translatedFrom: zh-hans
+lastReview: null
 ---
 
 ## 簡介

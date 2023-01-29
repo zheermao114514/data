@@ -3,6 +3,8 @@ name: Chica 陈由岐
 info:
     alias: 王凝予
     location: 北京朝阳
+translatedFrom: null
+lastReview: null
 ---
 
 ## 简介

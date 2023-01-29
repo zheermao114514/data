@@ -2,6 +2,8 @@
 name: 无名逝者
 info:
     alias: 无名逝者
+translatedFrom: null
+lastReview: null
 ---
 
 ## 简介

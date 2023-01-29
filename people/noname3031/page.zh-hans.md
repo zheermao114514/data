@@ -2,6 +2,8 @@
 name: noah
 info:
     location: 浙江宁波
+translatedFrom: null
+lastReview: null
 ---
 
 ## 简介

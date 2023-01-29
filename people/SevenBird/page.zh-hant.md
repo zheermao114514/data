@@ -3,6 +3,8 @@ name: 柒鳥
 info:
     alias: 柒鳥
     location: 福建
+translatedFrom: zh-hans
+lastReview: null
 ---
 
 >「想念我的時候，就擡頭看看月亮吧~」  

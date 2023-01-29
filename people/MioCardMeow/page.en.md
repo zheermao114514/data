@@ -3,6 +3,8 @@ name: miocardmeow
 info:
     alias: Ling Ka Miao, LingKaMiao, 澪卡喵, MioCardMeow
     location: Beijing, China
+translatedFrom: zh-hans
+lastReview: null
 ---
 
 ## Description

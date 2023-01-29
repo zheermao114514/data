@@ -3,6 +3,8 @@ name: 蛍
 info:
     alias: 阿蛍、蛍酱、秋雲
     location: 中国
+translatedFrom: null
+lastReview: null
 ---
 
 ## 简介

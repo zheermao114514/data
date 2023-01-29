@@ -3,6 +3,8 @@ name: 水原なぎさ
 info:
     alias: 水原なぎさ
     location: 上海
+translatedFrom: zh-hans
+lastReview: null
 ---
 
 ## 簡介

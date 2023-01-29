@@ -2,6 +2,8 @@
 name: noah
 info:
     location: 浙江寧波
+translatedFrom: zh-hans
+lastReview: null
 ---
 
 ## 簡介

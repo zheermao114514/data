@@ -3,6 +3,8 @@ name: 林童
 info:
     alias: 林童
     location: 湖北武漢
+translatedFrom: zh-hans
+lastReview: null
 ---
 
 ## 簡介

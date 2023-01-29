@@ -3,6 +3,8 @@ name: 浅羽猫头
 info:
     alias: 浅羽猫头、穗也猫猫头
     location: 甘肃兰州
+translatedFrom: null
+lastReview: null
 ---
 
 ## 简介

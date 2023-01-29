@@ -3,6 +3,8 @@ name: 倉山靜葉
 info:
     alias: 靜葉、G姐
     location: 中國北京
+translatedFrom: zh-hans
+lastReview: null
 ---
 
 ## 簡介

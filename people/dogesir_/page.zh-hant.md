@@ -3,6 +3,8 @@ name: 狗被染藍
 info:
     alias: 藍狗
     location: 吉林長春
+translatedFrom: zh-hans
+lastReview: null
 ---
 
 > 『看過《銀河鐵道之夜》嗎?咱想乘坐銀河列車!』

@@ -3,6 +3,8 @@ name: Gaoyang
 info:
     alias: Gaoyang, Lamb
     location: Haikou, China
+translatedFrom: zh-hans
+lastReview: null
 ---
 
 ## Profile

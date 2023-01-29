@@ -3,6 +3,8 @@ name: 羔羊
 info:
     alias: 羔羊
     location: 海南海口
+translatedFrom: null
+lastReview: null
 ---
 
 ## 简介

@@ -3,6 +3,8 @@ name: Anilovr
 info:
     alias: Ani
     location: Haikou, China
+translatedFrom: zh-hans
+lastReview: null
 ---
 
 >「//La homa mondo devus esti detruita//I will wait for you at Alpha Orionis//」

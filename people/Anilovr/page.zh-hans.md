@@ -3,6 +3,8 @@ name: Anilovr
 info:
     alias: Ani
     location: 海南海口
+translatedFrom: null
+lastReview: null
 ---
 
 >「//La homa mondo devus esti detruita//我会在参宿四上等你//」  
